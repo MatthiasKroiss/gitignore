@@ -1,1 +1,3 @@
-# gitignore
+# .gitignore files
+
+gitignore for Unity projects
